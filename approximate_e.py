@@ -1,6 +1,3 @@
-# My Name: Shubham
-
-# don't forget to import the math library... ok lol
 import math
 
 def approxE(precision):
