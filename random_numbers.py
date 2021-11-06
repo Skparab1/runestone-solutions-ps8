@@ -1,4 +1,3 @@
-# Your Name: Shubham
 import random
 
 def howManyUntil(stopNum):
