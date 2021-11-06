@@ -1,5 +1,3 @@
-# Name: Shubham
-
 import image
 
 def grayScale(img, w, h):
